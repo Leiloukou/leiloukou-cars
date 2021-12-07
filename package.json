@@ -1,0 +1,12 @@
+{
+  "name": "generic-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw.js",
+  "scripts": {
+    "test": "node assets/js/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

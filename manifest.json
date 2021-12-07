@@ -1,0 +1,46 @@
+{
+    "name": "Leilouki | Cloud hosting for everyone",
+    "short_name": "Leilouki",
+    "icons": [
+      {
+        "src": "./assets/images/chrome_192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any"
+      },
+      {
+        "src": "./assets/images/chrome_512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any"
+      }
+    ],
+    "start_url": "./index.html",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#51ff94",
+    "shortcuts": [
+      {
+        "name": "Features | Leilouki",
+        "short_name": "Features",
+        "description": "View the amazing features of Leilouki.",
+        "url": "./features/index.html",
+        "icons": [{ "src": "./assets/images/chrome_192.png", "sizes": "192x192" }]
+      },
+      {
+        "name": "Placeholder",
+        "short_name": "Placeholder",
+        "description": "Placeholder link. Leil.",
+        "url": "./index.html",
+        "icons": [{ "src": "./assets/images/chrome_192.png", "sizes": "192x192" }]
+      }
+    ],
+    "description": "Enjoy cloud hosting for new a freelancer's portfolio, to a large scale company like Amazon.",
+    "screenshots": [
+      {
+        "src": "./assets/images/chrome_192.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      }
+    ]}
